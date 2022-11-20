@@ -1,0 +1,22 @@
+body {
+	font-family: courier, helvetica, sans-serif;
+	font-size: 100%;
+	width: 550px;
+	margin: 0 auto;
+	padding: lem;
+	border: 1px solid black;
+}
+h1 {
+	margin: 0;
+	podding: .25em;
+	font-size: 200%;
+	color: black;
+}
+img {
+	float: left;
+	margin: 1 1em 1 em 1em;
+}
+p {
+	margin: 0;
+	padding-bottom: .5em;
+}
